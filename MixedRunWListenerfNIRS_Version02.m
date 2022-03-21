@@ -1,9 +1,10 @@
 function MixedRunWListenerfNIRS_Version02(subj,numSec,ithSec)
-% This version is for experiments during Nov/Dec.
-% Add support for multiple breaks
+
 % This is only for fNIRS
 % Updated for unique video clips for each speaker
 % Multiple moves ONLY
+
+% NOTE: Bad at synching time.
 
 diary 'fNIRSlog.txt'
 tic;
