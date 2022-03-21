@@ -1,8 +1,8 @@
 % Updated to use unique video clips for each speaker.
 % Mix single target and target+maskers conditions
 % video clips for single target are different from clips in target+maskers
-% ADD Pure tone to white cross!!!
-% parameters for EEG
+
+% For EEG
 % change from 360 trials to 300 trials
 
 function initializeExperimentUniqueVersion02_EEG(subj)

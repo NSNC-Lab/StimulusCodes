@@ -2,9 +2,6 @@ function MixedRunWListenerEEG_Version01(subj,numSec,ithSec)
 % This version is for experiments during Nov/Dec.
 % Add support for multiple breaks
 % This is only for EEG
-% numSec must evenly divide 360 trials
-% This is only for fNIRS
-% Updated for unique video clips for each speaker
 
 diary 'EEGlog.txt'
 tic;

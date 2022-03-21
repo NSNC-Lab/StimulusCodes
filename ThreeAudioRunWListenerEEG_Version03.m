@@ -1,8 +1,8 @@
 function ThreeAudioRunWListenerEEG_Version03(subj,numSec,ithSec,varargin)
 % This version is for experiments during Nov/Dec.
 % Add support for multiple breaks
-% This is only for EEG
-% numSec must evenly divide 360 trials
+
+% Audio only
 
 switch nargin
     case 0

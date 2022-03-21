@@ -1,9 +1,10 @@
 % Updated to use unique video clips for each speaker.
 % Mix single target and target+maskers conditions
 % video clips for single target are different from clips in target+maskers
-% ADD Pure tone to white cross!!!
-% parameters for fNIRS
+
+% For fNIRS
 % Update, multiple conditions only
+
 function initializeExperimentUniqueVersion03(subj)
     % Apply to both EEG and fNIRS
     
